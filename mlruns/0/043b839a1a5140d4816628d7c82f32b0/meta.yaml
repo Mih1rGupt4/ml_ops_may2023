@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/NHCE/Global%20Course/Global%20Course%20-%202/mlruns/0/043b839a1a5140d4816628d7c82f32b0/artifacts
+end_time: 1684298337435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 043b839a1a5140d4816628d7c82f32b0
+run_name: unruly-doe-641
+run_uuid: 043b839a1a5140d4816628d7c82f32b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684298334710
+status: 3
+tags: []
+user_id: blazi

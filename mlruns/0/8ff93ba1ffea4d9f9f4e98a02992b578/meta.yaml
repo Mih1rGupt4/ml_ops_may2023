@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/NHCE/Global%20Course/Global%20Course%20-%202/mlruns/0/8ff93ba1ffea4d9f9f4e98a02992b578/artifacts
+end_time: 1684304905909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ff93ba1ffea4d9f9f4e98a02992b578
+run_name: merciful-sheep-201
+run_uuid: 8ff93ba1ffea4d9f9f4e98a02992b578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684304903131
+status: 3
+tags: []
+user_id: blazi
