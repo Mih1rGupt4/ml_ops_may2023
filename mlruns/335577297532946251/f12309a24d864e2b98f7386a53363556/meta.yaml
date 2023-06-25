@@ -1,0 +1,15 @@
+artifact_uri: file:///M:/NHCE/Global%20Course/Global%20Course%20-%202/ml_ops_may2023/mlruns/335577297532946251/f12309a24d864e2b98f7386a53363556/artifacts
+end_time: 1684391205074
+entry_point_name: ''
+experiment_id: '335577297532946251'
+lifecycle_stage: active
+run_id: f12309a24d864e2b98f7386a53363556
+run_name: iris_classifier_18-05-23
+run_uuid: f12309a24d864e2b98f7386a53363556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684391202192
+status: 3
+tags: []
+user_id: blazi

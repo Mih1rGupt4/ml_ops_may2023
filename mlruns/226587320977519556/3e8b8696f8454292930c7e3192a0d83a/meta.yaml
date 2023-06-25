@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/226587320977519556/3e8b8696f8454292930c7e3192a0d83a/artifacts
+end_time: 1684391437683
+entry_point_name: ''
+experiment_id: '226587320977519556'
+lifecycle_stage: active
+run_id: 3e8b8696f8454292930c7e3192a0d83a
+run_name: iris_classifier_method-1
+run_uuid: 3e8b8696f8454292930c7e3192a0d83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684391434945
+status: 3
+tags: []
+user_id: blazi
